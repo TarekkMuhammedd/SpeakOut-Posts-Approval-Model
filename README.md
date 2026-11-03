@@ -49,6 +49,3 @@ Then open the URL that Streamlit prints, usually http://localhost:8501.
 
 Tarek Muhammad Abdelhamid
 
-## License
-
-Specify a license here, or remove this section.
